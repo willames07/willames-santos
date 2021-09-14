@@ -1,4 +1,4 @@
-### ola me chamo willames santos 👋
+### Olá me chamo willames santos 👋
 
 <!--
 **willames07/willames07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
