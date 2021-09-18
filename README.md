@@ -3,6 +3,12 @@
 <h4> Um pouco sobre mim  </h4>
 <p> Tenho 19 anos e sou apaixonado por tecnologia desde que a conheci foi amor a primeira vista, sempre gostei de saber o que está por trás das coisas e isso foi um dos fatores que mim fizeram se apoixonar pela tecnologia pois são imensos os recursos que a mesma nós proporcionar.
 
+
+<h4> repertório </h4>
+<P> algumas das ferramentas que conheço { html e css, javascript, git }
+<strong> objetivo => </strong> me develop mobile ❣️
+
+
 <!--
 **willames07/willames07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
