@@ -1,7 +1,7 @@
 ### hello, my name is Willames Santos 🙋🏾‍♂️ !!
 
-<h4> A little about me </h4>
-<p> I'm 19 years old and I've always been in love with technology 😁, I've always liked to know what's behind things and this has always drawn my attention to technology because of the possibility that Technologies. 
+<h4> Um pouco sobre mim  </h4>
+<p> Tenho 19 anos e sou apaixonado por tecnologia desde que a conheci foi amor a primeira vista, sempre gostei de saber o que está por trás das coisas e isso foi um dos fatores que mim fizeram se apoixonar pela tecnologia pois são imensos os recursos que a mesma nós proporcionar.
 
 <!--
 **willames07/willames07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
