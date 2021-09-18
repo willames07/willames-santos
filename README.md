@@ -1,4 +1,4 @@
-### Olá me chamo willames santos 👋
+### hello, my name is Willames Santos 🙋🏾‍♂️ !!
 
 <!--
 **willames07/willames07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
